@@ -1,2 +1,1 @@
-# holbertonschool-zero_day
-__Learn to use Vagrant and Git__
+Learn to use Vagrant and Git
